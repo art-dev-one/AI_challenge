@@ -1,0 +1,6 @@
+Analyze a given set of project requirements and justify and select the most suitable type of database for the project
+Social platform with millions of users
+Need to store profiles, posts, and connections between users
+High data read speed required
+Expected 80% read operations, 20% write operations
+Scalability is important as the user base grows
