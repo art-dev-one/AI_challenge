@@ -1,0 +1,2 @@
+Create a ticket for the founded bug: 'Logout button doesn’t work on Safari. It just doesn’t respond.'
+Return source code with github markdown without icons or emojis. Just plain text
