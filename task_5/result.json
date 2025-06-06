@@ -1,0 +1,56 @@
+[
+  {
+    "feedback": "Sensor just stops tracking for like a half second kinda often even at 8000hz. I've also tried it plugged in and still the same problem. First one I got I had to return also because the dongle just didnt work, $150 mouse btw",
+    "analysis": {
+      "sentiment": "Negative",
+      "isRelevant": true,
+      "mainSubject": "Sensor performance and hardware reliability",
+      "positives": [],
+      "painPoints": [
+        "Sensor intermittently stops tracking",
+        "Tracking issue occurs even when plugged in",
+        "Defective dongle on first unit",
+        "High price for problematic product"
+      ],
+      "improvementSuggestions": [
+        "Enhance sensor stability at high polling rates",
+        "Ensure reliable wired performance",
+        "Improve dongle quality control",
+        "Reassess pricing in relation to performance reliability"
+      ],
+      "featuresMentioned": [
+        "Sensor",
+        "Polling rate (8000Hz)",
+        "Wired mode",
+        "Dongle",
+        "Price"
+      ],
+      "userExpertise": "Unknown"
+    }
+  },
+  {
+    "feedback": "Is it worth it? It is a product with no flaws in my opinion, if you love it go for it, but its not worth the price since you'll be able to perform the same with a cheaper product with half the specs.",
+    "analysis": {
+      "sentiment": "Mixed",
+      "isRelevant": true,
+      "mainSubject": "Perceived value and pricing",
+      "positives": [
+        "No flaws in product performance or design"
+      ],
+      "painPoints": [
+        "Product is not worth the high price",
+        "Cheaper alternatives offer similar performance"
+      ],
+      "improvementSuggestions": [
+        "Better justify premium pricing through unique value",
+        "Highlight differentiating features more clearly"
+      ],
+      "featuresMentioned": [
+        "Price",
+        "Performance",
+        "Specifications"
+      ],
+      "userExpertise": "Unknown"
+    }
+  }
+]
